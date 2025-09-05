@@ -1,0 +1,1 @@
+chrome-extension://cmdgdghfledlbkbciggfjblphiafkcgg/core/src/common/scripts/broker.js
